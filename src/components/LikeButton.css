@@ -1,0 +1,11 @@
+.like-btn {
+  font-size: 60px;
+  background: none;
+  border: none;
+  cursor: pointer;
+  transition: transform 0.2s ease;
+}
+
+.like-btn:active {
+  transform: scale(1.2);
+}
